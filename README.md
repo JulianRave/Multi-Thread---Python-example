@@ -1,3 +1,3 @@
-# Multi - Thread Examples
+# Multi - Thread Example
 
-In this repository, I added some multithread examples developed in python.
+In this repository, I added a multithread example developed in python.
